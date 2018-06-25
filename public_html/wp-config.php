@@ -20,6 +20,8 @@
 
 // ** MySQL settings ** //
 /** The name of the database for WordPress */
+define('WP_CACHE', true);
+define( 'WPCACHEHOME', '/srv/www/locomotion/public_html/wp-content/plugins/wp-super-cache/' );
 define( 'DB_NAME', 'locomotion' );
 
 /** MySQL database username */

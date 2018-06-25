@@ -1,3 +1,4 @@
 log/*
 provision/*
 wp-cli.yml
+public_html/wp-config.php
