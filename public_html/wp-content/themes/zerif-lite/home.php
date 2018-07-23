@@ -5,6 +5,7 @@
  * @package zerif-lite
  */
 
+
 get_header();
 
 if ( ! zerif_check_if_old_version_of_theme() ) {
